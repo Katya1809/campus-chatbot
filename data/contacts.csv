@@ -1,0 +1,8 @@
+name,role,department,email,phone,office
+Dr. A. Rao,Principal,Administration,principal@college.edu.in,+91 90000 00001,Admin Block 1st Floor
+Dr. S. Mehta,Head of Department,Computer Science,hod.cse@college.edu.in,+91 90000 00002,Academic Block A Room 204
+Mr. K. Reddy,Training and Placement Officer,T&P Cell,placement@college.edu.in,+91 90000 00003,Placement Cell Admin Block Room 105
+Ms. P. Iyer,Librarian,Library,library@college.edu.in,+91 90000 00004,Central Library Ground Floor
+Campus Security,24x7 Security Control Room,Security,security@college.edu.in,+91 90000 00100,Main Gate
+Medical Centre,Campus doctor and ambulance,Medical,medical@college.edu.in,+91 90000 00108,Health Centre near Sports Complex
+IT Help Desk,Portal and WiFi support,IT Services,ithelp@college.edu.in,+91 90000 00005,Admin Block Ground Floor

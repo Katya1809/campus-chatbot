@@ -1,0 +1,10 @@
+name,building,floor,category,aliases,description,timings,lat,lon
+Placement Cell,Admin Block,1st Floor Room 105,placement,T&P cell training placement,Training and Placement office; company visit schedules and internship NOCs,Mon-Sat 9:30-5:00,17.4948,78.3996
+Central Library,Library Building,Ground and 1st Floor,facilities,library books reading room,Books journals digital library and reading hall,Mon-Fri 8:30-20:00 Sat 9:00-16:00,17.4952,78.4004
+Student Activity Centre,Student Centre,Ground Floor,clubs,SAC clubs desk drama,Club desks and rehearsal rooms,Daily 9:00-19:00,17.4944,78.4010
+Boys Hostel,Hostel Zone,Block A-C,facilities,hostel boys warden,Boys hostel with mess and warden office,Gate closes 21:30,17.4938,78.4018
+Girls Hostel,Hostel Zone,Block D-E,facilities,hostel girls warden,Girls hostel with mess and warden office,Gate closes 21:30,17.4936,78.4022
+Canteen,Food Court,Ground Floor,facilities,canteen cafeteria food mess,Snacks meals and beverages,Daily 8:00-18:00,17.4946,78.4001
+Health Centre,Near Sports Complex,Ground Floor,emergency,medical doctor clinic ambulance,Campus doctor first aid and ambulance,24x7 emergency,17.4941,78.4013
+Admin Block,Admin Block,All floors,digital,administration office fees IT help desk accounts,Fee counter admissions office and IT Help Desk,Mon-Sat 9:30-4:30,17.4949,78.3994
+Innovation Lab,Academic Block B,2nd Floor,facilities,lab hackathon robotics maker,Maker space for hackathons and robotics,Mon-Sat 9:00-18:00,17.4955,78.3999
