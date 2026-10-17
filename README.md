@@ -49,10 +49,6 @@ question -> validate -> agent.py: route intent -> tools (location | events | con
         -> context -> LLM (Gemini/OpenAI) or offline extractive answer -> answer + sources -> store.py
 ```
 
-## Tips for the 8-week plan
-Weeks 1-2: ingestion + chat + deploy. Weeks 3-4: add your real calendars/contacts/maps. Weeks 5-6: pick Option A1
-(Student Services) or A2 (Clubs): extend `handbook.md` / `clubs.csv` and the prompt in `agent.py`. Weeks 7-8: polish,
-README, demo video. Ideas: regional-language replies, a campus-term glossary, scheduled re-scraping.
 
 ## Reference GitHub repos / examples
 - https://github.com/toanuitt/College-AI- (Streamlit + LangChain + ChromaDB college chatbot)
