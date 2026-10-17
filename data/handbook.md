@@ -1,41 +1,85 @@
-# SAMPLE DATA - replace with your college's real handbook (PDF/DOCX/MD files in this folder are auto-loaded)
+# IIT Bhubaneswar — Student Handbook (excerpt)
 
-## Academic structure
-The college follows a semester system under the Choice Based Credit System (CBCS). Each semester has
-internal assessments (two mid-term exams and assignments, 40 marks) and an external semester-end exam (60 marks).
-Minimum attendance of 75% is required in each subject to be eligible for semester-end exams. Students with
-attendance between 65% and 75% may apply for condonation with a medical certificate and a fee.
+## Academics — Common First-Year Courses (B.Tech)
+- Mathematics I (Calculus and ODEs) — Sem 1; Mathematics II (Linear Algebra and Complex Analysis) — Sem 2 (SBS).
+- ELC (English Language for Communication).
+- HLS (Happiness and Life Skills) — 1 credit, attendance-based.
+- BEEE (Basic Electronics and Electrical Engineering).
+- ESTM (Environmental Science Technology and Management) — run by School of Earth, Ocean and Climate Sciences.
+- IBT (Introduction to Bioscience and Technology).
+- Programming in C — practise regularly.
+- IBKT (Introduction to Bharatiya Knowledge Traditions).
+- EDG — later half held at SOI.
+- Engineering Mechanics (EM) — practise from week 2.
+- Introduction to Manufacturing Processes — lab not in LBC.
+- Breadth courses: at least 4 required; usually taught by SHSSM.
+- EAA plus Yoga: choose an extra-academic activity plus the compulsory Yoga course.
 
-## Backlogs and grading
-A student who fails a subject can write a supplementary exam. Grades are given on a 10-point scale and CGPA is
-calculated across semesters. Revaluation requests must be submitted within 7 days of result declaration.
+## Branch-Specific Course Notes
+- ECE: FSD (Fundamentals of Semiconductor Devices) — physics-heavy.
+- EE: ADEC — analog first, digital later; steady revision needed.
+- CSE: DS (Discrete Structures) — practice logic/abstract problems.
+- MnC: DM (Discrete Maths) — concept practice.
+- EP: CMSR (Classical Mechanics & Special Relativity) — focus on derivations.
 
-## Admissions and fee payment
-Admission requires document verification: marksheets, transfer certificate, ID proof and entrance rank card.
-Fees are paid online through the student portal in two installments per year. Late payment attracts a fine.
-Scholarship applications for government schemes open every August through the National Scholarship Portal.
+## ITEP (B.Sc-B.Ed) — Highlights
+- Sem 1 & 2 course lists include ACE, Sanskrit, Evolution of Indian Education, Understanding India I/II, and subject-specific majors with their key topics.
 
-## Library
-The central library is open 8:30 AM to 8:00 PM on weekdays and 9:00 AM to 4:00 PM on Saturdays. Students can borrow
-3 books for 14 days using their ID card. Digital library access (journals, NPTEL) is available through the college portal.
+## Extra-Academic Activities (EAA)
+- NCC: weekly practice and march-past for national days.
+- NSO: sports practice thrice weekly (6:30–7:30 PM).
+- NSS: weekly service activities (e-waste drives, plantations, camps).
 
-## Hostel and mess
-Separate hostels for boys and girls. Hostel gates close at 9:30 PM. Mess timings: breakfast 7:30-9:00, lunch 12:30-2:00,
-snacks 5:00-6:00, dinner 7:30-9:00. Hostel allotment requests are made through the warden's office after admission.
+## Tips and Academic Advice
+- Missing a lab class has a strong negative impact on CGPA.
+- There is no branch change option — choose studies accordingly.
+- Aim for consistent grades; 7.5–8.0+ is strong.
+- Take assignments and mid-sem exams seriously from Semester 1.
 
-## Placements and internships
-The Training and Placement (T&P) Cell conducts aptitude and soft-skills training from the 5th semester. Eligibility for
-campus drives needs no active backlogs and a minimum 60% aggregate. Register on the placement portal to apply for drives.
-Internship NOCs are issued by the T&P Cell with HOD approval.
+---
 
-## Joining clubs and societies
-Club recruitments happen in the first three weeks of each semester. Visit the club's desk at the Student Activity Centre or
-register through the clubs form shared on the notice board. Technical societies and cultural clubs are open to all years.
+# Handbook — Academic Calendar (2026–27)
 
-## Anti-ragging and grievances
-Ragging is strictly prohibited. Report incidents to the Anti-Ragging Committee or call the 24x7 helpline. The Grievance
-Redressal Cell handles academic and administrative complaints; submit a written complaint or email the cell.
+## Autumn Semester
+- Classes begin: 2026-07-24
+- Mid-semester exams: 2026-09-16 — 2026-09-25
+- End-semester exams: 2026-11-23 — 2026-12-03
+- Result declaration: 2026-12-11
 
-## Digital services
-Campus WiFi is available using your student ID. The student portal (ERP) provides attendance, results, fee receipts and
-timetables. Password resets are handled by the IT Help Desk in the Admin Block.
+## Spring Semester
+- Classes begin: 2027-01-07
+- Mid-semester exams: 2027-02-22 — 2027-03-03
+- End-semester exams: 2027-05-06 — 2027-05-15
+- Result declaration: 2027-05-25
+
+## Summer Quarter
+- Classes: 2027-06-01 — 2027-07-16
+- Exams: 2027-07-19 — 2027-07-21
+
+---
+
+# Handbook — Fees, Attendance & Grading
+
+## Fee Structure (summary)
+- Fees vary by program and category. Reference: IIT Bhubaneswar Fee Structure Portal.
+- Example (indicative): B.Tech tuition approx. ₹1,00,000 per semester; M.Tech / M.Sc. figures differ.
+- One-time admission fee: ₹8,000 (example).
+- Caution money and hostel charges apply; mess advance varies.
+
+> Note: Exact fee figures should be verified on the official fee portal before use.
+
+## Attendance Policy
+- Students will not be deregistered from a course solely for low attendance.
+- Attendance affects marks on a linear scale (approx. -5 marks at 0% to +5 at 100% in some courses).
+- HLS is entirely attendance-dependent; some faculty use green attendance schemes.
+
+## Grading
+- Course formats: L-T-P (Lecture, Tutorial, Practical); credits vary by course.
+- Faculty may use relative or absolute grading.
+- Typical assessment split (example): 20% assignments, 30% mid-sems, 50% end-sems.
+- Suggested grade bands (indicative): 90–100: Ex; 80–90: A; 70–80: B; 60–70: C; 50–60: D; 35–50: P; <35: F.
+
+---
+
+# Additional notes
+- This is an excerpt and a cleaned conversion; you can add more handbook sections (e.g., leave policy, exam registration steps, honor code) as separate headings to keep them searchable.

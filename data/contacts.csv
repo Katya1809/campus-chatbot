@@ -1,8 +1,15 @@
-name,role,department,email,phone,office
-Dr. A. Rao,Principal,Administration,principal@college.edu.in,+91 90000 00001,Admin Block 1st Floor
-Dr. S. Mehta,Head of Department,Computer Science,hod.cse@college.edu.in,+91 90000 00002,Academic Block A Room 204
-Mr. K. Reddy,Training and Placement Officer,T&P Cell,placement@college.edu.in,+91 90000 00003,Placement Cell Admin Block Room 105
-Ms. P. Iyer,Librarian,Library,library@college.edu.in,+91 90000 00004,Central Library Ground Floor
-Campus Security,24x7 Security Control Room,Security,security@college.edu.in,+91 90000 00100,Main Gate
-Medical Centre,Campus doctor and ambulance,Medical,medical@college.edu.in,+91 90000 00108,Health Centre near Sports Complex
-IT Help Desk,Portal and WiFi support,IT Services,ithelp@college.edu.in,+91 90000 00005,Admin Block Ground Floor
+Students' Gymkhana,Umbrella Body,Student Affairs,,,President (Faculty); Vice-President (Student); UG/PG/PhD representatives
+Hostel Council,Student Body,Residential Affairs,,,General Secretaries (GSec) for each hostel; handles mess and maintenance issues
+Counselling Services Team,Support,Student Welfare,,,Faculty PIC; Professional Counsellor; elected Coordinators and Student Guides
+Career Development Cell (CDC),Placement Body,Training & Placements,,,Internship and Placement Coordinators from every branch
+Alumni Cell,Institute Cell,Alumni Affairs,,,Managed by Dean and General Secretary; organises Alumni Meets
+Women Welfare Committee (WWC),Institute Committee,Administration,,,Promotes safe workplace; runs workshops and awareness programmes
+Unnat Bharat Abhiyan (UBA),Institute Initiative,Outreach,,,Community development initiative partnering local villages
+Aanand (Residents' Club),Residents' Club,Residents' Clubs,aanandkidac@iitbbs.ac.in,,A1-001 (next to KV building); kids activities and classes
+ARPAN (Residents' Club),Residents' Club,Residents' Clubs,arpan@iitbbs.ac.in,,Office bearers: Dr. U. C. Sahoo (President)
+Avani (Residents' Club),Residents' Club,Residents' Clubs,,8280329802,Gardening activities; eligibility: campus employees
+Feminine Fusion,Residents' Club,Residents' Clubs,femininefusion@iitbbs.ac.in,,A2-601 (Club House)
+Niramay (Health Club),Residents' Club,Residents' Clubs,,,Evening sessions 18:00-19:00
+Parampara (Residents' Club),Residents' Club,Residents' Clubs,parampara@iitbbs.ac.in,,B2-001 (in front of Director's bungalow)
+Vaisharadya,Residents' Club,Residents' Clubs,vaisharadya@iitbbs.ac.in,,Senior Citizens' Club
+Vatsalya (Day Care),Residents' Club,Residents' Clubs,,"\Dr. Aparna Pandey: 9900076835; Dr. Stuti Awasthi: 8299828080; Gajendra Behera: 9437445585; Vivek Kedia: 7717777595\""""",Day care for children of working parents; multiple coordinators
