@@ -1,5 +1,36 @@
+# Environment & secrets
 .env
+.streamlit/secrets.toml
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Database (local query log - not source data)
 campus.db
-.streamlit/secrets.toml
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# FAISS index (regenerated on start)
+faiss_index/
+
+# Large raw data / scratch
+data_raw/
+all_pages_utf8.txt
+extracted_pdf.txt
